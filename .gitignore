@@ -1,0 +1,25 @@
+# ===== Archivos que crea Visual Studio (no se suben) =====
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.dtproj.user
+*.database.user
+
+# ===== Power BI (guardar como .pbip, no como .pbix) =====
+*.pbix
+**/.pbi/localSettings.json
+**/.pbi/cache.abf
+
+# ===== Respaldos y archivos físicos de base de datos =====
+*.bak
+*.mdf
+*.ldf
+*.abf
+
+# ===== Archivos del sistema operativo =====
+Thumbs.db
+desktop.ini
+.DS_Store
