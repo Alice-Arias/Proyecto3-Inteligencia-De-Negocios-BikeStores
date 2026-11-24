@@ -6,6 +6,8 @@ Solución de Inteligencia de Negocios basada en la base de datos de ejemplo
 **BikeStores** de SQL Server. Incluye ETL, orquestador, Data Warehouse, cubo
 y dashboards de ventas e inventario, todo con herramientas Microsoft.
 
+**Fecha de entrega:** 6 de diciembre de 2026
+
 ## Herramientas
 
 | Herramienta | Uso |
